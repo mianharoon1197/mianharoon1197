@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 - ✅ Proficient in **Next.js** and **Tailwind CSS** for building modern, responsive web apps  
-- 🔧 Skilled in **C/C++, Python, JavaScript React.JS**, and **SQL**
+- 🔧 Skilled in **C/C++, Python, JavaScript, React.JS**, and **SQL**
 - 🧩 Experienced in frontend + backend logic and UI/UX with real-world projects
 - 🌐 Actively exploring AI, open-source contributions, and Software Engineering best practices
 
@@ -18,7 +18,7 @@
 
 | Category        | Skills                                                                 |
 |----------------|------------------------------------------------------------------------|
-| **Languages**       | ![C](https://img.shields.io/badge/-C-blue?style=flat) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript) |
+| **Languages**       | ![C](https://img.shields.io/badge/-C-blue?style=flat) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript) |
 | **Web Dev**         | ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss) |
 | **Databases**       | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) |
 | **Tools & IDEs**    | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) |
