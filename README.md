@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Muhammad Haroon</h1>
+<h1 align="center">👋 Hi, I'm Muhammad Haroon Iftikahr</h1>
 <p align="center">
   🎓 BSCS Student at <strong>National Textile University Faisalabad</strong> <br/>
   💻 Passionate Full Stack Dev | Problem Solver | Tech Explorer
